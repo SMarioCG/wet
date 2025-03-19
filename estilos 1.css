@@ -1,0 +1,133 @@
+/* nombre de jm*/
+h1{
+
+    color:cornflowerblue;
+    text-align: center; 
+    }
+    /*IMAGENES DE LA FOTO*/
+    .imagen{
+    width: 12%;
+    height: 50%;
+    margin-top: -60px;
+    }
+    /*encabezado*/
+    body{
+        
+        width: 700px;
+        
+    
+        margin:0 auto;
+        background-color:white;
+    
+        padding: 0 30px 30px 30px;
+            border: 8px solid lightskyblue;
+    
+    
+        
+        
+    }
+    html{
+        background-color:ghostwhite;
+    }
+    /* DATOS DE CONTACTOS*/
+    H2{
+    
+    
+        text-align: right;
+        margin-top: -60px;/* elevadar las palabras*/
+        word-spacing: 100px; /* Ajusta la distancia del palabras */
+    
+        
+    }
+    H3{
+    
+    
+        text-align: right;
+        margin-top: 30px;/* elevadar las palabras*/
+        word-spacing: 10px; /* Ajusta la distancia del palabras */
+        
+    }
+    /*bordes decorativo*/
+    .rectangulo {
+        width: 720px; /* Ancho del rectángulo */
+        height: 10px; /* Altura del rectángulo */
+        background-color:darkslateblue; /* Color de fondo */
+        border: 2px solid #333; /* Borde del rectángulo */
+    }
+    /* cuadrado dentro de informacion*/
+    li {
+        background-color: #fff;
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    /*datos personales*/
+    h5{
+    
+        
+        font-size:30px ;
+        text-shadow:0 0 5px blue ;
+        text-align:left;
+        
+        
+        
+    
+    
+    }
+    /*Referecias nombres*/
+    h6{
+     font-family: arial;
+    
+    
+    
+    
+    }
+    /*numeros de referencias*/
+    h7{
+    
+    font-size: 10px;
+    text-align: right;
+    
+    
+    }
+    h8{
+    
+        word-spacing: 100%; /* Ajusta la distancia del palabras */
+    }
+    /*formulario*/
+    
+    
+    
+    
+    h11 {
+        margin-bottom: 20px;
+        color: #333;
+        text-align: center;
+    }
+    
+    label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+    
+    input, textarea, button {
+        width: 100%;
+        margin-bottom: 15px;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    
+    button {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+    
+    button:hover {
+        background-color: #0056b3;
+    }
